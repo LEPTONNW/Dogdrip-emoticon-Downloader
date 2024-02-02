@@ -1,9 +1,0 @@
-C:\Users\kac44\source\repos\개드립콘 파싱툴\개드립콘 파싱툴\bin\Debug\개드립콘 파싱툴.exe.config
-C:\Users\kac44\source\repos\개드립콘 파싱툴\개드립콘 파싱툴\bin\Debug\개드립콘 파싱툴.exe
-C:\Users\kac44\source\repos\개드립콘 파싱툴\개드립콘 파싱툴\bin\Debug\개드립콘 파싱툴.pdb
-C:\Users\kac44\source\repos\개드립콘 파싱툴\개드립콘 파싱툴\obj\Debug\개드립콘 파싱툴.csprojAssemblyReference.cache
-C:\Users\kac44\source\repos\개드립콘 파싱툴\개드립콘 파싱툴\obj\Debug\개드립콘_파싱툴.Form1.resources
-C:\Users\kac44\source\repos\개드립콘 파싱툴\개드립콘 파싱툴\obj\Debug\개드립콘_파싱툴.Properties.Resources.resources
-C:\Users\kac44\source\repos\개드립콘 파싱툴\개드립콘 파싱툴\obj\Debug\개드립콘 파싱툴.csproj.GenerateResource.cache
-C:\Users\kac44\source\repos\개드립콘 파싱툴\개드립콘 파싱툴\obj\Debug\개드립콘 파싱툴.exe
-C:\Users\kac44\source\repos\개드립콘 파싱툴\개드립콘 파싱툴\obj\Debug\개드립콘 파싱툴.pdb
