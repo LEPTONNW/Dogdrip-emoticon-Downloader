@@ -9,6 +9,5 @@ https://www.dogdrip.net/sticker?sticker_srl=467917199
 
 위와 같은 주소를 적고 경로를 지정하여 다운로드 버튼을 누르면 지정한 경로에 일괄 다운로드됩니다.
 
-
 다운로드 주소
-https://github.com/LEPTONNW/Dogdrip-emoticon-Downloader/blob/main/bin/Release/%EA%B0%9C%EB%93%9C%EB%A6%BD%EC%BD%98%20%ED%8C%8C%EC%8B%B1%ED%88%B4.exe
+https://gofile.me/6Z0TD/sSMCgKZ0I
