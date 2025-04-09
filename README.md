@@ -8,4 +8,3 @@ Dogdrip-emoticon-Downloader
 
 위와 같은 주소를 적고 경로를 지정하여 다운로드 버튼을 누르면 지정한 경로에 일괄 다운로드됩니다.
 
-다운로드 주소 https://gofile.me/6Z0TD/sSMCgKZ0I
