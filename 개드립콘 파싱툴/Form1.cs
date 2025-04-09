@@ -35,6 +35,7 @@ namespace 개드립콘_파싱툴
         public static string[] temp4;
         private void button1_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("시작");
             try
             {
                 listBox1.Items.Clear();
