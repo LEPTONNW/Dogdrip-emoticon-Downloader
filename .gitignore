@@ -1,0 +1,15 @@
+# Visual Studio 관련
+.vs/
+*.user
+*.suo
+*.vsp
+*.vspscc
+*.vssscc
+
+# 빌드 폴더
+bin/
+obj/
+
+# 기타
+*.log
+*.cache
