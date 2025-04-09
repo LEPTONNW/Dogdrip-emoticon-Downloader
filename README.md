@@ -8,4 +8,4 @@ Dogdrip-emoticon-Downloader
 
 위와 같은 주소를 적고 경로를 지정하여 다운로드 버튼을 누르면 지정한 경로에 일괄 다운로드됩니다.
 
-[다운로드 바로가기](https://github.com/LEPTONNW/Dogdrip-emoticon-Downloader/releases/download/v1.0.0/DogdripDownloader.exe)
+[다운로드 바로가기](https://github.com/LEPTONNW/Dogdrip-emoticon-Downloader/releases/download/v1.1/dogdrip_parshing.exe)
