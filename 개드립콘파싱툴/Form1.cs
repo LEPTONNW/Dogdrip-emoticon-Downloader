@@ -52,16 +52,17 @@ namespace 개드립콘파싱툴
                 status.Text = "Status : 로딩완료";
 
 
+                
                 if (HTMLSorce.Contains("data-dnv-loaded=\"false\""))
                 {
-                    리스트상단제거 = HTMLSorce.Split(new string[] { "<div class=\"dogcon_file_list\" data-dnv-loaded=\"false\" data-dnv-processed=\"true\">" }, StringSplitOptions.None);
+                    리스트상단제거 = HTMLSorce.Split(new string[] { "<div class=\"dogcon_file_list\" data-dnv-loaded=\"false\" data-dnv-processed=\"true\"" }, StringSplitOptions.None);
                 }
                 else
                 {
-                    리스트상단제거 = HTMLSorce.Split(new string[] { "<div class=\"dogcon_file_list\" data-dnv-processed=\"true\">" }, StringSplitOptions.None);
+                    리스트상단제거 = HTMLSorce.Split(new string[] { "<div class=\"dogcon_file_list\" data-dnv-processed=\"true\"" }, StringSplitOptions.None);
                 }
 
-
+                
                 if (리스트상단제거[1].Contains("<div class=\"dogcon_buy not_logged_in\">"))
                 {
                     리스트하단제거 = 리스트상단제거[1].Split(new string[] { "<div class=\"dogcon_buy not_logged_in\">" }, StringSplitOptions.None);
@@ -75,6 +76,8 @@ namespace 개드립콘파싱툴
                     리스트하단제거 = 리스트상단제거[1].Split(new String[] { "</ul>" }, StringSplitOptions.None);
                 }
 
+                
+                
 
                 string[] 리스트텍스트가공 = 리스트하단제거[0].Split(new string[] { "/dvs" }, StringSplitOptions.None);
 
@@ -103,6 +106,7 @@ namespace 개드립콘파싱툴
                         }
                     }
                 }
+                
 
                 textBox1.Text = "";
                 button1.Enabled = true;
